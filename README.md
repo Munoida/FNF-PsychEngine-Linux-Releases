@@ -1,6 +1,8 @@
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
+This ONLY exists because ShadowMario does not include precompiled Linux releases. So I will be doing it for them incase if they decide to do it themself. Everything is unchanged. (Starting October 25th, 2022)
+
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
 
